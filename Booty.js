@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Dump = props => (
+const Booty = props => (
   <div
     style={{
       fontSize: 20,
@@ -20,4 +20,4 @@ const Dump = props => (
   </div>
 );
 
-export default Dump;
+export default Booty;

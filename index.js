@@ -48,7 +48,7 @@ function _nonIterableRest() {
   throw new TypeError("Invalid attempt to destructure non-iterable instance");
 }
 
-var Dump = function Dump(props) {
+var Booty = function Booty(props) {
   return React.createElement("div", {
     style: {
       fontSize: 20,
@@ -72,4 +72,4 @@ var Dump = function Dump(props) {
   }));
 };
 
-exports.default = Dump;
+exports.default = Booty;

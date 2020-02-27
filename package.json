@@ -1,10 +1,10 @@
 {
-  "name": "@wesbos/dump",
-  "private": false,
-  "version": "0.1.1",
-  "author": "wes bos",
+  "name": "@jastuccio/booty",
+  "private": true,
+  "version": "0.0.1",
+  "author": "Joe Astuccio",
   "license": "MIT",
-  "description": "Take a dump on your React App.",
+  "description": "Keep the 💩out of your React App. A slightly classier fork of https://github.com/wesbos/dump",
   "main": "index.js",
   "scripts": {
     "build": "rollup -c"
@@ -23,15 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wesbos/dump.git"
+    "url": "git+https://github.com/jastuccio/booty.git"
   },
-  "bugs": {
-    "url": "https://github.com/wesbos/dump/issues"
-  },
-  "homepage": "https://github.com/wesbos/dump#readme",
+  "homepage": "https://github.com/jastuccio/booty#readme",
   "keywords": [
     "react",
-    "dump",
+    "data",
     "props"
   ]
 }

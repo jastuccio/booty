@@ -1,7 +1,7 @@
 import babel from 'rollup-plugin-babel'
 
 export default {
-  input: 'Dump.js',
+  input: 'Booty.js',
   output: {
     file: './index.js',
     format: 'cjs',
